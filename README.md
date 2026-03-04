@@ -18,9 +18,13 @@ Para hospedar a API que receberá os dados dos sensores e rodará o modelo de Ma
 Realizamos a cotação em duas regiões diferentes utilizando a AWS Pricing Calculator:
 
 1. **US East (N. Virginia):** Custos estimados em **$10,13 USD/mês**.
+
+<img width="1869" height="908" alt="aws_virginia" src="https://github.com/user-attachments/assets/bd6cdba7-ab60-4c9e-8389-0d1e52fad0be" />
+
 2. **South America (São Paulo):** Custos estimados em **$17,38 USD/mês**.
 
-*(Imagens das cotações em anexo no repositório)*
+<img width="1912" height="956" alt="aws_saopaulo" src="https://github.com/user-attachments/assets/679a5034-1812-4638-bd90-e7ea2e7fe0c0" />
+
 
 ### ⚖️ Justificativa de Escolha da Região
 Apesar da região da Virgínia do Norte apresentar um custo financeiro menor, a solução técnica correta e escolhida para a FarmTech Solutions é a **South America (São Paulo)**. A escolha fundamenta-se em dois pilares essenciais do projeto:
