@@ -6,7 +6,7 @@ Este repositório contém as entregas da Fase 5 do projeto FarmTech Solutions, c
 Foi realizada uma análise exploratória (EDA), clusterização (K-Means) para identificar tendências e outliers, e o treinamento de 5 modelos de regressão supervisionada para prever o rendimento agrícola com base nas condições climáticas.
 
 * **Melhor Modelo:** Regressão Linear (R² de 0.995).
-* **Notebook completo:** [Acesse o arquivo MateusPenteado_rm568518_pbl_fase4.ipynb aqui](./MateusPenteado_rm568518_pbl_fase4.ipynb)
+* **Notebook completo:** [Acesse o arquivo MateusPenteado_rm568518_pbl_fase5.ipynb aqui](./MateusPenteado_rm568518_pbl_fase5.ipynb)
 * **Vídeo Demonstrativo (ML):** [COLOQUE O LINK DO SEU VÍDEO DO YOUTUBE AQUI]
 
 ---
