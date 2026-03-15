@@ -7,7 +7,7 @@ Foi realizada uma análise exploratória (EDA), clusterização (K-Means) para i
 
 * **Melhor Modelo:** Regressão Linear (R² de 0.995).
 * **Notebook completo:** [Acesse o arquivo MateusPenteado_rm568518_pbl_fase5.ipynb aqui](./MateusPenteado_rm568518_pbl_fase5.ipynb)
-* **Vídeo Demonstrativo (ML):** [COLOQUE O LINK DO SEU VÍDEO DO YOUTUBE AQUI]
+* **Vídeo Demonstrativo (ML):** https://youtu.be/jnVNWj9T2p4
 
 ---
 
