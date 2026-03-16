@@ -81,3 +81,9 @@ FIAP_FarmTech_Fase5/
 
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca/">André Godoi FIAP</a>
+
+---
+
+## Créditos e Licença
+© 2025 — FIAP / PlantIA Agrodata  
+Licença **MIT** — uso livre para fins acadêmicos e de aprendizado.
